@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="btn_width">90dp</dimen>
+    <dimen name="dimen_margin">5dp</dimen>
+    <dimen name="card_radius">2dp</dimen>
+    <dimen name="dimen_5">5dp</dimen>
+    <dimen name="header_height">55dp</dimen>
+</resources>

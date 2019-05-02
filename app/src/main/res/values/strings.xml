@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="hint_username">Username</string>
+    <string name="lbl_next">Next</string>
+    <!--Question Tag-->
+    <string name="first_question">What is your name?</string>
+    <string name="second_question">Who is the best cricketer in the world?</string>
+    <string name="third_question">What are the colors in the Indian national flag?</string>
+    <!--Option1-->
+    <string name="q1_option1">Sachin Tendulkar</string>
+    <string name="q1_option2">Virat Kolli</string>
+    <string name="q1_option3"> Adam Gilchirst</string>
+    <string name="q1_option4">Jacques Kallis</string>
+    <!--Option2-->
+    <string name="q2_option1">White</string>
+    <string name="q2_option2">Yellow</string>
+    <string name="q2_option3">Orange</string>
+    <string name="q2_option4">Green</string>
+    <!--General-->
+    <string name="lbl_hello">Hello </string>
+    <string name="lbl_selected_header">Here are the answers selected:</string>
+    <string name="lbl_history">History</string>
+    <string name="labl_finish">Finish</string>
+    <string name="lbl_game">Game</string>
+    <string name="lbl_name">Name :   </string>
+    <string name="error_name_alert">Please enter the name</string>
+    <string name="alert_name_validate">you reached maximum characters limit</string>
+
+</resources>
